@@ -12,11 +12,11 @@ Temario de la capacitación en Python para desarrollo web orientado a usuarios c
    - [Proyecto 1: Crear una aplicación de consola básica](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%201%20-%20Introduccion%20a%20Python/Proyecto%201%20-%20Crear%20una%20aplicacion%20de%20concsola%20basica.md)
 
 2. Fundamentos de la programación orientada a objetos en Python
-   - Clases y objetos
-   - Atributos y métodos
-   - Herencia y polimorfismo
-   - Encapsulamiento
-   - Proyecto 2: Crear una aplicación de consola orientada a objetos
+   - [Clases y objetos](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%202%20-%20Fundamentos%20de%20la%20programaci%C3%B3n%20orientada%20a%20objetos%20en%20Python/2.1.%20Clases%20y%20objetos.md)
+   - [Atributos y métodos](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%202%20-%20Fundamentos%20de%20la%20programaci%C3%B3n%20orientada%20a%20objetos%20en%20Python/2.2.%20Atributos%20y%20m%C3%A9todos.md)
+   - [Herencia y polimorfismo](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%202%20-%20Fundamentos%20de%20la%20programaci%C3%B3n%20orientada%20a%20objetos%20en%20Python/2.3.%20Herencia%20y%20polimorfismo.md)
+   - [Encapsulamiento](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%202%20-%20Fundamentos%20de%20la%20programaci%C3%B3n%20orientada%20a%20objetos%20en%20Python/2.4.%20Encapsulamiento.md)
+   - [Proyecto 2: Crear una aplicación de consola orientada a objetos](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%202%20-%20Fundamentos%20de%20la%20programaci%C3%B3n%20orientada%20a%20objetos%20en%20Python/Proyecto%202%20-%20Crear%20una%20aplicaci%C3%B3n%20de%20consola%20orientada%20a%20objetos.md)
 
 3. Introducción al desarrollo web con Python
    - Protocolo HTTP y conceptos básicos de la web
