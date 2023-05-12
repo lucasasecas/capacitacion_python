@@ -30,11 +30,11 @@ Temario de la capacitación en Python para desarrollo web orientado a usuarios c
    - [Proyecto 4: Desarrollar una aplicación web básica con Flask](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%204%20-%20Flask%20Framework%20para%20desarrollo%20web%20en%20Python/Proyecto%204%20-%20Desarrollar%20una%20aplicaci%C3%B3n%20web%20b%C3%A1sica%20con%20Flask.md)
 
 5. Django: Framework de alto nivel para desarrollo web en Python
-   - Instalación y configuración
-   - Conceptos básicos: modelos, vistas y plantillas
-   - Formularios y validación de datos
-   - Autenticación y autorización
-   - Proyecto 5: Desarrollar una aplicación web básica con Django
+   - [Instalación y configuración](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%205%20Django%20-%20Framework%20de%20alto%20nivel%20para%20desarrollo%20web%20en%20Python/5.1%20Instalaci%C3%B3n%20y%20configuraci%C3%B3n.md)
+   - [Conceptos básicos: modelos, vistas y plantillas](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%205%20Django%20-%20Framework%20de%20alto%20nivel%20para%20desarrollo%20web%20en%20Python/5.2%20Conceptos%20b%C3%A1sicos%20-%20modelos%2C%20vistas%20y%20plantillas.md)
+   - [Formularios y validación de datos](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%205%20Django%20-%20Framework%20de%20alto%20nivel%20para%20desarrollo%20web%20en%20Python/5.3%20Formularios%20y%20validaci%C3%B3n%20de%20datos.md)
+   - [Autenticación y autorización](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%205%20Django%20-%20Framework%20de%20alto%20nivel%20para%20desarrollo%20web%20en%20Python/5.4%20Autenticaci%C3%B3n%20y%20autorizaci%C3%B3n.md)
+   - [Proyecto 5: Desarrollar una aplicación web básica con Django](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%205%20Django%20-%20Framework%20de%20alto%20nivel%20para%20desarrollo%20web%20en%20Python/Proyecto%205%20-%20Desarrollar%20una%20aplicaci%C3%B3n%20web%20b%C3%A1sica%20con%20Django.md)
 
 6. Integración de bases de datos en aplicaciones web Python
    - Introducción a SQL y bases de datos relacionales
