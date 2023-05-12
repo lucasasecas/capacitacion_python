@@ -19,15 +19,15 @@ Temario de la capacitación en Python para desarrollo web orientado a usuarios c
    - [Proyecto 2: Crear una aplicación de consola orientada a objetos](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%202%20-%20Fundamentos%20de%20la%20programaci%C3%B3n%20orientada%20a%20objetos%20en%20Python/Proyecto%202%20-%20Crear%20una%20aplicaci%C3%B3n%20de%20consola%20orientada%20a%20objetos.md)
 
 3. Introducción al desarrollo web con Python
-   - Protocolo HTTP y conceptos básicos de la web
-   - Introducción a las APIs REST
+   - [Protocolo HTTP y conceptos básicos de la web](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%203%20-%20Introducci%C3%B3n%20al%20desarrollo%20web%20con%20Python/3.1%20Protocolo%20HTTP%20y%20conceptos%20b%C3%A1sicos%20de%20la%20web.md)
+   - [Introducción a las APIs REST](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%203%20-%20Introducci%C3%B3n%20al%20desarrollo%20web%20con%20Python/3.2%20Introducci%C3%B3n%20a%20las%20APIs%20REST.md)
 
 4. Flask: Framework para desarrollo web en Python
-   - Instalación y configuración
-   - Conceptos básicos: rutas, vistas, plantillas y variables de contexto
-   - Formularios y validación de datos
-   - Autenticación y autorización
-   - Proyecto 4: Desarrollar una aplicación web básica con Flask
+   - [Instalación y configuración](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%204%20-%20Flask%20Framework%20para%20desarrollo%20web%20en%20Python/4.1%20Instalaci%C3%B3n%20y%20configuraci%C3%B3n.md)
+   - [Conceptos básicos: rutas, vistas, plantillas y variables de contexto](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%204%20-%20Flask%20Framework%20para%20desarrollo%20web%20en%20Python/4.2%20Conceptos%20b%C3%A1sicos%20-%20rutas%2C%20vistas%2C%20plantillas%20y%20variables%20de%20contexto.md)
+   - [Formularios y validación de datos](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%204%20-%20Flask%20Framework%20para%20desarrollo%20web%20en%20Python/4.3%20Formularios%20y%20validaci%C3%B3n%20de%20datos.md)
+   - [Autenticación y autorización](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%204%20-%20Flask%20Framework%20para%20desarrollo%20web%20en%20Python/4.4%20Autenticaci%C3%B3n%20y%20autorizaci%C3%B3n.md)
+   - [Proyecto 4: Desarrollar una aplicación web básica con Flask](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%204%20-%20Flask%20Framework%20para%20desarrollo%20web%20en%20Python/Proyecto%204%20-%20Desarrollar%20una%20aplicaci%C3%B3n%20web%20b%C3%A1sica%20con%20Flask.md)
 
 5. Django: Framework de alto nivel para desarrollo web en Python
    - Instalación y configuración
