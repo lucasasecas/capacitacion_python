@@ -21,7 +21,6 @@ Temario de la capacitación en Python para desarrollo web orientado a usuarios c
 3. Introducción al desarrollo web con Python
    - Protocolo HTTP y conceptos básicos de la web
    - Introducción a las APIs REST
-   - Proyecto 3: Crear una API REST básica
 
 4. Flask: Framework para desarrollo web en Python
    - Instalación y configuración
