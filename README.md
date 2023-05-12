@@ -37,9 +37,9 @@ Temario de la capacitación en Python para desarrollo web orientado a usuarios c
    - [Proyecto 5: Desarrollar una aplicación web básica con Django](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%205%20Django%20-%20Framework%20de%20alto%20nivel%20para%20desarrollo%20web%20en%20Python/Proyecto%205%20-%20Desarrollar%20una%20aplicaci%C3%B3n%20web%20b%C3%A1sica%20con%20Django.md)
 
 6. Integración de bases de datos en aplicaciones web Python
-   - Introducción a SQL y bases de datos relacionales
-   - ORM: SQLAlchemy para Flask y Django ORM
-   - Proyecto 6: Integrar una base de datos en los proyectos de Flask y Django
+   - [Introducción a SQL y bases de datos relacionales](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%206%20-%20Integraci%C3%B3n%20de%20bases%20de%20datos%20en%20aplicaciones%20web%20Python/6.1%20Introducci%C3%B3n%20a%20SQL%20y%20bases%20de%20datos%20relacionales.md)
+   - [ORM: SQLAlchemy para Flask y Django ORM](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%206%20-%20Integraci%C3%B3n%20de%20bases%20de%20datos%20en%20aplicaciones%20web%20Python/6.2%20ORM%20-%20SQLAlchemy%20para%20Flask%20y%20Django%20ORM.md)
+   - [Proyecto 6: Integrar una base de datos en los proyectos de Flask y Django](https://github.com/lucasasecas/capacitacion_python/blob/main/Cap%C3%ADtulo%206%20-%20Integraci%C3%B3n%20de%20bases%20de%20datos%20en%20aplicaciones%20web%20Python/6.3%20Proyecto%206%20-%20Integrar%20una%20base%20de%20datos%20en%20los%20proyectos%20de%20Flask%20y%20Django.md)
 
 7. Despliegue de aplicaciones web en AWS
    - Introducción a AWS
